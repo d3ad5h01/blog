@@ -1,5 +1,5 @@
-baseURL: "https://d3ad5h01.github.io/hugo-website/" 
-title: Divyatez Singh
+baseURL: "https://d3ad5h01.github.io/blog/" 
+title: Divyatez Singh Sisodiya
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -28,10 +28,10 @@ menu:
 
 params:
     description: "-"
-    author: Moritz-Maria von Igelfeld
+    author: Divyatez Singh Sisodiya
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -52,7 +52,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Software Engineer
+          title: Divyatez
           subtitle: "-"
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -60,18 +60,18 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
+            # - name: Courses
+            #   url: courses/
             - name: Data
               url: data/
             - name: Books
               url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: 
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: 
 
     # socialIcons:
     #     - name: CV
